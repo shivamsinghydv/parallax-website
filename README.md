@@ -1,2 +1,0 @@
-# parallax-website
-parallax-website
